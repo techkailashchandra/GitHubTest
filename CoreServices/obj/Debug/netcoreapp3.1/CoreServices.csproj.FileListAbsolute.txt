@@ -1,0 +1,5 @@
+C:\Kailash\Code\CoreServices\obj\Debug\netcoreapp3.1\CoreServices.csprojAssemblyReference.cache
+C:\Kailash\Code\CoreServices\obj\Debug\netcoreapp3.1\CoreServices.AssemblyInfoInputs.cache
+C:\Kailash\Code\CoreServices\obj\Debug\netcoreapp3.1\CoreServices.AssemblyInfo.cs
+C:\Kailash\Code\CoreServices\obj\Debug\netcoreapp3.1\CoreServices.csproj.CoreCompileInputs.cache
+C:\Kailash\Code\CoreServices\obj\Debug\netcoreapp3.1\CoreServices.MvcApplicationPartsAssemblyInfo.cache
